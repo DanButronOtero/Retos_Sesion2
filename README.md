@@ -13,7 +13,6 @@
 
 # Reto 2
 
-##
 
 ## ¿Cuál es el promedio de salario de los puestos?
 ``` select avg(p.salario) as promedio from puesto p ; ```

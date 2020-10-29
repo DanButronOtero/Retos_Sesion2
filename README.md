@@ -2,7 +2,7 @@
 Retos bedu session 2
 
 # ¿Qué artículos incluyen la palabra Pasta en su nombre?
-select  * from articulo where nombre like '%Pasta%';
+''' select  * from articulo where nombre like '%Pasta%'; '''
 # ¿Qué artículos incluyen la palabra Pasta en su nombre?
 select  * from articulo where nombre like '%Cannelloni%';
 # ¿Qué nombres están separados por un guión (-) por ejemplo Puree - Kiwi?
